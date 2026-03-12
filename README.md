@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghulam Hassan
 
-<!--
-**ghulamhassan190/ghulamhassan190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer  
+💻 Passionate about coding and technology  
+🌍 From Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning Web Development
+- 💡 Interested in Software Development
+- 🚀 Love building projects
+- 🎯 Goal: Become a Professional Developer
+
+---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript (Learning)
+- Git
+- GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night)
+
+---
+
+## 📫 Contact Me
+Email: your-email@example.com
+
+---
+
+⭐ "Keep learning, keep building."
