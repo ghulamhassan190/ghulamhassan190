@@ -25,8 +25,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhassan190&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=ghulamhassan190&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhassan190&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=ghulamhassan190&theme=tokyonight" width="50%" />
 </p>
 
 ## 📈 Activity Graph
