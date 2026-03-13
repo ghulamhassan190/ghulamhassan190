@@ -36,8 +36,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulamhassan190&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamhassan190&theme=tokyonight"  width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulamhassan190&theme=tokyonight" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamhassan190&theme=tokyonight"  width="55%"/>
 </p>
 
 
