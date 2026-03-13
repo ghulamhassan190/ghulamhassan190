@@ -23,25 +23,23 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghulamhassan190&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhassan190&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ghulamhassan190&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhassan190&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ghulamhassan190&theme=tokyonight" />
+</p>
 
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghulamhassan190&theme=tokyo-night)
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulamhassan190&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamhassan190&theme=tokyonight" height="180"/>
+</p>
+
 
 ## 📫 Contact Me
 Email: your-email@example.com
