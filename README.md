@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghulam Hassan
 
 🚀 Aspiring Software Developer  
-💻 Passionate about coding and technology  
+💻 Passionate about coding and technology    
 🌍 From Pakistan  
 
 ---
